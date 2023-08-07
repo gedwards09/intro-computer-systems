@@ -1,0 +1,1 @@
+imull   $0x2,%ecx
