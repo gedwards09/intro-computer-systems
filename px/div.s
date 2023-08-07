@@ -1,1 +1,0 @@
-idivl   %ebx,%eax

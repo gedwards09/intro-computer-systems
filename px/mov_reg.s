@@ -1,1 +1,0 @@
-movl    %ecx,%esi 
